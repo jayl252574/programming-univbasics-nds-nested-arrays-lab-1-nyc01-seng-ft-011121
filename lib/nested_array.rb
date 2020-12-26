@@ -1,4 +1,6 @@
 # Examples inspired by U. S. National Organic Standards
+]
+
 def assembled_matrix
 
 
